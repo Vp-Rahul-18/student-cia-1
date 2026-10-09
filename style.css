@@ -20,6 +20,15 @@ h2{
   text-allign:center;
 }
 
+h3{
+  color: lightgreen;
+  text-allign:center;
+}
+
+h4{
+  color: lightgreen;
+  text-allign:center;
+}
 img{
   width:200px;
   border-radius:10px;
