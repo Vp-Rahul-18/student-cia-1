@@ -15,6 +15,11 @@ h1{
   text-allign:center;
 }
 
+h2{
+  color: lightgreen;
+  text-allign:center;
+}
+
 img{
   width:200px;
   border-radius:10px;
