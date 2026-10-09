@@ -1,6 +1,6 @@
 body{
   font-family:Arial;
-  background-color: lightblue;
+  background-color: lightyellow;
   text-allign:center;
   display:flex;
   flex-direction:column;
@@ -16,17 +16,17 @@ h1{
 }
 
 h2{
-  color: lightgreen;
+  color: lightblue;
   text-allign:center;
 }
 
 h3{
-  color: lightgreen;
+  color: lightblue;
   text-allign:center;
 }
 
 h4{
-  color: lightgreen;
+  color: lightblue;
   text-allign:center;
 }
 img{
@@ -39,4 +39,5 @@ img{
 p{
   font-size:18px;
   text-allign:center;
+  color: green;
 }
